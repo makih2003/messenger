@@ -182,20 +182,6 @@ public class Messenger {
 	}
 	
 	/**
-	 * send reply to a message
-	 * @param original the message that the user is answering to
-	 * @param text message
-	 */
-	public void sendReply(Message original, String text) {
-		if(original == null || text == null) {
-			throw new NullPointerException("parameter cannot be null");
-		}
-		
-		Reply rp = new Reply(text,original.getRecUserName(), original.getSenderUserName(),original);
-		messageSent.add(rp);
-	}
-	
-	/**
 	 * returns the ArrayList of users information
 	 * @return the ArrayList of users information
 	 */
