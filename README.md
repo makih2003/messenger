@@ -1,2 +1,2 @@
 # Messenger App
-<img width="1109" alt="messenger" src="https://github.com/makih2003/messenger/assets/139406942/29fc17ab-90f9-49db-b7b6-c25089b8d895">
+Messenger app built with JavaFX. In the first tab, the user can sign in, log in, and log out. A username and password are required in order to sign in and log in. In the second tab, they can read messages they have received. There are two buttons, one to display unread messages and the other to display all messages. In the third tab, they can send a message by typing it in or default smile message.
