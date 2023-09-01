@@ -198,7 +198,7 @@ public class GUIMessenger extends Application{
 		root.setCenter(tabPane);
 			
 		Scene scene = new Scene(root);
-		primaryStage.setTitle("Messanger JavaFX");
+		primaryStage.setTitle("Messenger JavaFX");
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}
