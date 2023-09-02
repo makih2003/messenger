@@ -35,7 +35,10 @@ It shows an error message on the header if the recipient does not exist.
 <img width="477" alt="Screenshot 2023-09-01 at 5 42 48 PM" src="https://github.com/makih2003/messenger/assets/139406942/ce66ab67-5728-4960-a481-354ab3386ae3">
 <br>
 It shows a "Smile Successfully Sent" or "Message Successfully Sent" on the header if the recipient exists.
-
+<br><br>
+<img width="481" alt="Screenshot 2023-09-01 at 5 46 22 PM" src="https://github.com/makih2003/messenger/assets/139406942/cf741e83-a19a-41ac-aa56-1a586b0ea916">
+Now if the user goes back to the first tab, they can only press the "Active User" button and the "Logout" button since they have already logged in. The "Active User" button displays the username on the header. To login into another account, they need to logout first.
+<br><br>
 
 
 
