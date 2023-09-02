@@ -71,11 +71,6 @@ Now if the user clicks "Load Unread Messages", there are no messages to display 
 <br><br>
 
 
-
-
-
-
-
 ## Prerequisites
-•
+• Please make sure to download JDK from <a href="https://jdk.java.net/20/">Official OpenJDK</a> website.
 
