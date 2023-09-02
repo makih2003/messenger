@@ -57,6 +57,7 @@ Let's send 2 different messages to Maki from Chris.
 <img width="484" alt="Screenshot 2023-09-01 at 7 33 25 PM" src="https://github.com/makih2003/messenger/assets/139406942/650cafe9-98f8-4b0f-ae4a-a8391a005e5a">
 <br>
 Go back to the first tab and log in as Maki.
+<br><br>
 
 <img width="485" alt="Screenshot 2023-09-01 at 7 31 02 PM" src="https://github.com/makih2003/messenger/assets/139406942/c4c1a72b-78a3-4324-b7f2-058d246a2561">
 <br>
