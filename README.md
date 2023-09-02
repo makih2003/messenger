@@ -24,6 +24,8 @@ After successfully signing in, the second tab (Read Messages tab) and third tab 
 <br>
 In the third tab, the user can send a message to other users or even themselves. 
 <br><br>
+<img width="485" alt="Screenshot 2023-09-01 at 5 35 40 PM" src="https://github.com/makih2003/messenger/assets/139406942/0342e4db-cbc7-491c-a697-3389281ad3ac">
+They can send a written message or a default smile message. The default smile message is non-editable.
 
 
 
