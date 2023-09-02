@@ -51,6 +51,7 @@ In order to demonstrate sending and receiving messages between two different acc
 <img width="476" alt="Screenshot 2023-09-01 at 6 01 46 PM" src="https://github.com/makih2003/messenger/assets/139406942/4991b657-d140-41f4-a460-5ac5505b7ad2">
 <br>
 <img width="484" alt="Screenshot 2023-09-01 at 7 28 06 PM" src="https://github.com/makih2003/messenger/assets/139406942/86c3dc71-cca8-44cb-9e92-d323a42bb18d">
+<br>
 Let's send 2 different messages to Maki from Chris.
 
 
