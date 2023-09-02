@@ -47,6 +47,9 @@ After pressing the "Logout" button, the user can now log in or sign in to anothe
 <img width="481" alt="Screenshot 2023-09-01 at 5 59 22 PM" src="https://github.com/makih2003/messenger/assets/139406942/0f447cd4-32eb-44ee-96ec-2adae704b9ff">
 <br>
 Now to demonstrate sending and receiving messages between two different accounts, let's make another account.
+<br><br>
+<img width="476" alt="Screenshot 2023-09-01 at 6 01 46 PM" src="https://github.com/makih2003/messenger/assets/139406942/4991b657-d140-41f4-a460-5ac5505b7ad2">
+<br>
 
 
 
