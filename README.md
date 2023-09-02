@@ -31,6 +31,11 @@ They can send a written message or a default smile message. The default smile me
 <img width="483" alt="Screenshot 2023-09-01 at 5 40 17 PM" src="https://github.com/makih2003/messenger/assets/139406942/4f43cce0-20b4-413a-924e-6f70d2715da7">
 <br>
 It shows an error message on the header if the recipient does not exist.
+<br><br>
+<img width="477" alt="Screenshot 2023-09-01 at 5 42 48 PM" src="https://github.com/makih2003/messenger/assets/139406942/ce66ab67-5728-4960-a481-354ab3386ae3">
+<br>
+It shows a "Smile Successfully Sent" or "Message Successfully Sent" on the header if the recipient exists.
+
 
 
 
