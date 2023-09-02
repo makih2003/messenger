@@ -28,7 +28,7 @@ In the third tab, the user can send a message to other users or even themselves.
 <br>
 They can send a written message or a default smile message. The default smile message is non-editable.
 <br><br>
-<img width="483" alt="Screenshot 2023-09-01 at 5 40 17 PM" src="https://github.com/makih2003/messenger/assets/139406942/4f43cce0-20b4-413a-924e-6f70d2715da7">
+<img width="404" alt="Screenshot 2023-09-01 at 7 47 17 PM" src="https://github.com/makih2003/messenger/assets/139406942/5af11eba-0a42-4688-9036-f25160a36ee1">
 <br>
 It shows an error message on the header if the recipient does not exist.
 <br><br>
