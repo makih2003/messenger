@@ -17,7 +17,9 @@ It shows an error message on the header if they try to log in to a non-existent 
 It shows a different error message on the header if the username is already registered or the password is shorter than 7 characters.
 <br><br>
 <img width="484" alt="Screenshot 2023-09-01 at 5 22 09 PM" src="https://github.com/makih2003/messenger/assets/139406942/c7adb73c-fa73-485e-949d-9ca1d6df431c">
+<br>
 After successfully signing in, the second tab (Read Messages tab) and third tab (Send Message) can be accessed. In the second tab, users can see all the messages they have received. When there are no received messages, "No Message Displayed" is shown in the text field, and the "next" button is disabled. On the header, the number of message(s) is displayed. 
+<br><br>
 
 
 
