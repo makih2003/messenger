@@ -72,5 +72,6 @@ Now if the user clicks "Load Unread Messages", there are no messages to display 
 
 
 ## Prerequisites
-• Please make sure to download JDK from <a href="https://jdk.java.net/20/">Official OpenJDK</a> website.
+1. Ensure to download JDK from <a href="https://jdk.java.net/20/">Official OpenJDK</a> website. The version "18.0.1.1" or higher is recommended.
+2. In order to set up JavaFX environment, follow the instructions of <a href="[https://jdk.java.net/20/](https://openjfx.io/openjfx-docs/#install-javafx)https://openjfx.io/openjfx-docs/#install-javafx">JavaFX</a> website.
 
