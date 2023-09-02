@@ -66,6 +66,7 @@ Go back to the first tab and log in as Maki.
 The user can see both messages from Chris in the second tab. After reading the messages, its status becomes "read" from "unread".
 <br><br>
 <img width="484" alt="Screenshot 2023-09-01 at 7 36 53 PM" src="https://github.com/makih2003/messenger/assets/139406942/5d08ea1d-6843-4dd5-b184-ecad8d9e2446">
+<br>
 Now if the user clicks "Load Unread Messages", there are no messages to display since they read all the messages already.
 <br><br>
 
