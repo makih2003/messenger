@@ -20,13 +20,14 @@ It shows a different error message on the header if the username is already regi
 <br>
 After successfully signing in, the second tab (Read Messages tab) and third tab (Send Message) can be accessed. In the second tab, users can see all the messages they have received. When there are no received messages, "No Message Displayed" is shown in the text field, and the "next" button is disabled. On the header, the number of message(s) is displayed. 
 <br><br>
-<img width="484" alt="Screenshot 2023-09-01 at 5 22 09 PM" src="https://github.com/makih2003/messenger/assets/139406942/10e4531f-e5ca-4884-baad-9b49c42d36be">
+<img width="476" alt="Screenshot 2023-09-01 at 5 32 48 PM" src="https://github.com/makih2003/messenger/assets/139406942/2edb3bc2-23e3-4645-98f9-6bd17f3784dc">
 <br>
 In the third tab, the user can send a message to other users or even themselves. 
 <br><br>
 <img width="485" alt="Screenshot 2023-09-01 at 5 35 40 PM" src="https://github.com/makih2003/messenger/assets/139406942/0342e4db-cbc7-491c-a697-3389281ad3ac">
+<br>
 They can send a written message or a default smile message. The default smile message is non-editable.
-
+<br><br>
 
 
 
