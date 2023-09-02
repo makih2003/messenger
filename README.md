@@ -53,7 +53,10 @@ In order to demonstrate sending and receiving messages between two different acc
 <img width="484" alt="Screenshot 2023-09-01 at 7 28 06 PM" src="https://github.com/makih2003/messenger/assets/139406942/86c3dc71-cca8-44cb-9e92-d323a42bb18d">
 <br>
 Let's send 2 different messages to Maki from Chris.
-
+<br><br>
+<img width="485" alt="Screenshot 2023-09-01 at 7 31 02 PM" src="https://github.com/makih2003/messenger/assets/139406942/c4c1a72b-78a3-4324-b7f2-058d246a2561">
+<br>
+<img width="486" alt="Screenshot 2023-09-01 at 7 31 52 PM" src="https://github.com/makih2003/messenger/assets/139406942/4ae22a9d-295b-4640-b588-d1690b94072d">
 
 
 
