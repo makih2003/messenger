@@ -43,6 +43,10 @@ Now if the user goes back to the first tab, they can only press the "Active User
 <img width="479" alt="Screenshot 2023-09-01 at 5 50 05 PM" src="https://github.com/makih2003/messenger/assets/139406942/c7416d27-1e24-47a7-a027-3cc2e722d04b">
 <br>
 After pressing the "Logout" button, the user can now log in or sign in to another account.
+<br><br>
+<img width="481" alt="Screenshot 2023-09-01 at 5 59 22 PM" src="https://github.com/makih2003/messenger/assets/139406942/0f447cd4-32eb-44ee-96ec-2adae704b9ff">
+<br>
+Now to demonstrate sending and receiving messages between two different accounts, let's make another account.
 
 
 
